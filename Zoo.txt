@@ -1,1 +1,11 @@
-hola
+deluge
+visual encodings
+position encodings
+In lieu of stacking
+Horizon Graphs - dividing the chart into bands
+box-and-whisker plots
+Stem-and-Leaf Plots
+phylogenetic trees
+"cluster" layout
+cliques
+seriation
