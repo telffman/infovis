@@ -37,6 +37,10 @@
         {
           "name": "museos",
           "value": 200
+        },
+        {
+          "name": "deporte"
+          "value": 700
         }
       ]
     }
