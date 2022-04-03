@@ -15,34 +15,15 @@
       "children:": [
         {
           "name": "Pelle",
-          "children": [
-            {
-              "name": "Soft Skills",
-              "value": 960
-            },
-            {
-              "name": "Hard Skills",
-              "value": 4680
-            }
-          ]
+          "value": 5640
         },
         {
           "name": "UBA",
-          "Children": [
-            {
-              "name": "Mas Hard Skills",
-              "value": 1400
-            }
-          ]
+          "value": 1400
         },
         {
           "name": "ITBA",
-          "children": [
-            {
-              "name": "Hard Skills y Otras Cosas",
-              "value": 870
-            }
-          ]
+          "value": 870
         }
       ]
     }
