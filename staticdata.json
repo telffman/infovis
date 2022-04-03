@@ -31,15 +31,15 @@
       "name":"Experiencias",
       "children": [
         {
-          "name": "viajes",
+          "name": "Viajes",
           "value": 2820
         },
         {
-          "name": "museos",
+          "name": "Museos",
           "value": 200
         },
         {
-          "name": "deporte",
+          "name": "Tenis",
           "value": 700
         }
       ]
