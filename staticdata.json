@@ -26,6 +26,19 @@
           "value": 870
         }
       ]
+    },
+    {
+      "name":"Experiencias",
+      "children": [
+        {
+          "name": "viajes",
+          "value": 2820
+        },
+        {
+          "name": "museos",
+          "value": 200
+        }
+      ]
     }
   ]
 }
