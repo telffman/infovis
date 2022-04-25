@@ -1,6 +1,5 @@
 # infovis
 ## Visualización de Información TP Datos Personales
-***
 ## Recopilacion de Información
 * Para recopilar los datos "Academicos" decidi dirigirme a las paginas web de las instituciones "ESCCP" y "UBA-FCE"
 1. [Plan de Estudios Pellegrini](http://www.cpel.uba.ar/index.php/plan-de-estudios)
