@@ -10,5 +10,5 @@
 * Para "Experiencias y Ocio" tuve que ingeniarmelas
 1. La mayoria de los viajes los tenia presentes, pero tuve que buscar en el pasaporte los sellos de entrada y salida, a la vez checkear en mis fotos por que ciudades habia estado.
 2. Con Museos me ayudo mi familia y creo que abaracamos casi todos los museos que visitamos.
-3. Deportes fue facil, si bien practico varios, el unico que realmente entreno y que en algun punto me formo es el tenis. Si bien a lo largo de los años las horas que le dedico van variando, el tenis siempre esta.
+3. Deportes fue facil, si bien practico varios, el unico que realmente entreno y que en algun punto me formo, es el tenis. Si bien a lo largo de los años las horas que le dedico van variando, el tenis siempre esta.
 4. Libros, aca decidi ir al grano. Soy bastante lector, pero jamas lleve un registro de que libros fui leyendo, por lo que decidi solo contabilizar los libros de MI biblioteca, sin tener en cuenta la bibloteca familiar.
